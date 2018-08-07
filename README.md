@@ -8,7 +8,11 @@ It's pretty fast, really.
 
 ## Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tt7NvW__B5Y?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![](demo.png)
+
+
+
+→ [Youtube Video](https://www.youtube.com/watch?v=Tt7NvW__B5Y) ←
 
 
 
