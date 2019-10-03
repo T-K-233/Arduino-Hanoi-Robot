@@ -1,6 +1,6 @@
 # Hanoi Robot
 
-A robot that solves the Tower of Hanoi using 2 stepper motors.
+A robot that solves the Tower of Hanoi using 2 stepper motors and penumatics.
 
 It's pretty fast, really.
 
@@ -36,7 +36,7 @@ It's pretty fast, really.
 
 ## Authors
 
-- **-T.K.-**(YUFENG CHI)  -  *Coding*
+- **-T.K.-** (YUFENG CHI)  -  *Coding*
 - **XUGUO HE**  -  *Hardware building*
 
 
