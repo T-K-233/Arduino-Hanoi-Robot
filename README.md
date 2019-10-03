@@ -36,8 +36,8 @@ It's pretty fast, really.
 
 ## Authors
 
-- **-T.K.-**  -  *Coding*
-- **HXG**  -  *Hardware building*
+- **-T.K.-**(YUFENG CHI)  -  *Coding*
+- **XUGUO HE**  -  *Hardware building*
 
 
 
